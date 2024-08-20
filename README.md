@@ -19,4 +19,5 @@ Si valoras una mentalidad inquisitiva y un enfoque analítico robusto, estaré e
 ## Datos de contacto
 
 - [LinkedIn](www.linkedin.com/in/eliana-larregola)
-- [E-mail](eblarregola2012@gmail.com)
+- 
+- E-mail: eblarregola2012@gmail.com
