@@ -1,7 +1,7 @@
 ## **Hi there** 👋
 
 # 🌍🚀 **Data Explorer | Geologist at Heart | Adventure Seeker**
- <img align="right" alt="GIF" src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media1.giphy.com/media/kaq6GnxDlJaBq/giphy.gif)" />
+
 ¡Hola! Soy una exploradora incansable, tanto en la naturaleza como en el mundo de los datos. Con una mente curiosa y un espíritu aventurero, he viajado desde la geología hasta el análisis de datos, siempre buscando patrones ocultos y conexiones inesperadas. Si estás buscando a alguien que combine pasión por el descubrimiento, precisión en el análisis y un enfoque fresco y dinámico, ¡conectemos! 🌟
 
 Mi nombre es Eliana Larregola. Desde mis inicios como geóloga, he desarrollado un profundo amor por el descubrimiento y el análisis detallado. Mi curiosidad insaciable y mi pasión por la aventura me han llevado a explorar no solo paisajes naturales, sino también el vasto universo de los datos.
