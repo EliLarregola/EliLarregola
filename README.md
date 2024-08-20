@@ -16,4 +16,7 @@ En este perfil podrás ir viendo algunos de mis proyectos en construcción, pero
 
 Si valoras una mentalidad inquisitiva y un enfoque analítico robusto, estaré encantada de conectar contigo y explorar cómo puedo contribuir a tus proyectos.
 
+## Datos de contacto
 
+- [LinkedIn](www.linkedin.com/in/eliana-larregola)
+- [E-mail](eblarregola2012@gmail.com)
