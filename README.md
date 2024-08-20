@@ -6,6 +6,10 @@
 
 Mi nombre es Eliana Larregola. Desde mis inicios como geóloga, he desarrollado un profundo amor por el descubrimiento y el análisis detallado. Mi curiosidad insaciable y mi pasión por la aventura me han llevado a explorar no solo paisajes naturales, sino también el vasto universo de los datos.
 
+<p align="right">
+    <img src="[URL_DE_TU_GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzluOHV5ajZzbXl0OHJleTg2Zm91NzVkeWFucTkzZnAyNDNmMG0xNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APqEbxBsVlkWSuFpth/giphy.webp)" alt="Exploradora de Datos" width="250"/>
+</p>
+
 Mi formación universitaria en ciencias y mi experiencia en análisis de datos me han enseñado a interpretar y conectar patrones complejos desde una perspectiva única. Esta capacidad, junto con mi afán por aprender, me permite ofrecer análisis profundos y creativos en diversos campos.
 
 He trabajado con herramientas como Python, pandas, Matplotlib, Seaborn, SQL, Power BI y procesos de ETL, lo que me ha permitido trasladar mi enfoque analítico también al ámbito de la ingeniería de datos. Mi habilidad para observar, estar atenta al detalle, interpretar y conectar datos se basa en mi sólida formación y pensamiento crítico.
