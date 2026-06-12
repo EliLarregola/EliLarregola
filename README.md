@@ -10,11 +10,11 @@ Currently, I work in the transportation and logistics industry, where I am devel
 
 This GitHub profile documents my learning journey through practical projects rather than academic exercises. Here you will find work related to:
 
-Database design and SQL development
-Data analysis with Python
-GIS and geospatial workflows
-Business and operational analytics
-Data visualization and reporting
+- Database design and SQL development
+- Data analysis with Python
+- GIS and geospatial workflows
+- Business and operational analytics
+- Data visualization and reporting
 
 My goal is to bridge domain knowledge with data skills to build solutions that help organizations better understand and manage their information.
 
