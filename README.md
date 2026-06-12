@@ -1,4 +1,4 @@
-## **Hi there** 👋
+
 
 # Geologist | Data Analytics & GIS Enthusiast | Building Real-World Data Projects
 
