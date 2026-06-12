@@ -1,22 +1,26 @@
 ## **Hi there** 👋
 
-# 🌍🚀 **Data Explorer | Geologist at Heart | Adventure Seeker**
+# Geologist | Data Analytics & GIS Enthusiast | Building Real-World Data Projects
 
-¡Hola! Soy una exploradora incansable, tanto en la naturaleza como en el mundo de los datos. Con una mente curiosa y un espíritu aventurero, he viajado desde la geología hasta el análisis de datos, siempre buscando patrones ocultos y conexiones inesperadas. Si estás buscando a alguien que combine pasión por el descubrimiento, precisión en el análisis y un enfoque fresco y dinámico, ¡conectemos! 🌟
+Hi, I'm Eliana.
 
-Mi nombre es Eliana Larregola. Desde mis inicios como geóloga, he desarrollado un profundo amor por el descubrimiento y el análisis detallado. Mi curiosidad insaciable y mi pasión por la aventura me han llevado a explorar no solo paisajes naturales, sino también el vasto universo de los datos.
+I am a geologist with a growing focus on data analytics, databases, GIS and business process improvement. My background in geosciences trained me to work with complex datasets, identify patterns, build structured workflows and make decisions based on evidence.
 
-Mi formación universitaria en ciencias y mi experiencia en análisis de datos me han enseñado a interpretar y conectar patrones complejos desde una perspectiva única. Esta capacidad, junto con mi afán por aprender, me permite ofrecer análisis profundos y creativos en diversos campos.
+Currently, I work in the transportation and logistics industry, where I am developing data-driven projects focused on maintenance management, database design and operational analysis. At the same time, I continue expanding my skills in Python, SQL, data visualization and geospatial analysis.
 
-He trabajado con herramientas como Python, pandas, Matplotlib, Seaborn, SQL, Power BI y procesos de ETL, lo que me ha permitido trasladar mi enfoque analítico también al ámbito de la ingeniería de datos. Mi habilidad para observar, estar atenta al detalle, interpretar y conectar datos se basa en mi sólida formación y pensamiento crítico.
+This GitHub profile documents my learning journey through practical projects rather than academic exercises. Here you will find work related to:
 
-Apasionada por el aprendizaje continuo y motivada para integrarme en equipos dinámicos, busco oportunidades que me permitan desarrollar aún más mis habilidades analíticas y aportar perspectivas innovadoras. Mi capacidad para comunicarme efectivamente y recibir feedback constructivo facilita mi integración en equipos diversos, asegurando un análisis preciso y contextualizado en cada proyecto.
+Database design and SQL development
+Data analysis with Python
+GIS and geospatial workflows
+Business and operational analytics
+Data visualization and reporting
 
-En este perfil podrás ir viendo algunos de mis proyectos en construcción, pero recuerda.. ¡Esto recién empieza!
+My goal is to bridge domain knowledge with data skills to build solutions that help organizations better understand and manage their information.
 
-Si valoras una mentalidad inquisitiva y un enfoque analítico robusto, estaré encantada de conectar contigo y explorar cómo puedo contribuir a tus proyectos.
+Always learning. Always building.
 
-## **Stack Tecnológico**
+## **Tech Stack**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python 
