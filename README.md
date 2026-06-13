@@ -18,7 +18,7 @@ This GitHub profile documents my learning journey through practical projects rat
 
 My goal is to bridge domain knowledge with data skills to build solutions that help organizations better understand and manage their information.
 
-Always learning. Always building.
+
 
 ## **Tech Stack**
 
